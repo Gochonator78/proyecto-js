@@ -8,8 +8,7 @@
       "type": "chrome",
       "request": "launch",
       "name": "Open index.html",
-      "file": "/home/gochonator/Marco/gitHub/proyecto-js/index.html",
-      "runtimeExecutable": "stable"
+      "file": "/home/gochonator/Marco/gitHub/proyecto-js/index.html"
     }
   ]
 }
