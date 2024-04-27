@@ -9,6 +9,7 @@
       "request": "launch",
       "name": "Open index.html",
       "file": "/home/gochonator/Marco/gitHub/proyecto-js/index.html",
-      "runtimeExecutable": ["chrome"]
+      "runtimeExecutable": "/home/gochonator/Marco/gitHub/proyecto-js/index.html"
+    }
   ]
 }
