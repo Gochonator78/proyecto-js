@@ -8,7 +8,7 @@
       "type": "firefox",
       "request": "launch",
       "name": "Open index.html",
-      "file": "/home/gochonator/Marco/gitHub/proyecto-js/indexBuenas.html",
+      "file": "/home/gochonator/Marco/gitHub/proyecto-js/index.html",
       "runtimeExecutable": "/usr/bin/firefox"
     }
   ]
