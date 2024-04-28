@@ -5,10 +5,11 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "chrome",
+      "type": "firefox",
       "request": "launch",
       "name": "Open index.html",
-      "file": "/home/gochonator/Marco/gitHub/proyecto-js/indexBuenas.html"
+      "file": "/home/gochonator/Marco/gitHub/proyecto-js/indexBuenas.html",
+      "runtimeExecutable": "/usr/bin/firefox"
     }
   ]
 }
